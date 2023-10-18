@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "mystaticsitekb"
+  default = "app-static-site-s3"
 }
 
 variable "website_endpoint" {
